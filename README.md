@@ -1,6 +1,6 @@
 # Introduction
 
-This project creates the Ollama LLM manager and an interface to interact with it based on OpenWebUI.
+Ollama LLM manager and an interface to interact with it based on OpenWebUI.
 
 # Installation
 
@@ -20,7 +20,7 @@ This project creates the Ollama LLM manager and an interface to interact with it
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/llm-manager.git
+git clone https://github.com/gustavobgama/llm-manager.git
 ```
 
 2. Navigate to the project directory:
