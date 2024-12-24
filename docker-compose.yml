@@ -11,7 +11,7 @@ services:
               count: -1
               capabilities: [gpu]
   open-webui:
-    image: ghcr.io/open-webui/open-webui:0.3.35
+    image: ghcr.io/open-webui/open-webui:0.4.8
     volumes:
       - ./open-webui:/app/backend/data
     ports:
